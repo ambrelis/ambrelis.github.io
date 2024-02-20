@@ -1,2 +1,2 @@
 # ambrelis.github.io
-Portfolio BUT Ambre
+Portfolio BUT Métiers du multimédia et de l'internet, IUT HAGUENAU
